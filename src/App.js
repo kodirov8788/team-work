@@ -1,9 +1,10 @@
 import './App.css';
-
+import Center from "../src/components/Center/Center"
 function App() {
   return (
     <div className="App">
-      <h1>Hello</h1>
+      <Center />
+      <hr />
     </div>
   );
 }
